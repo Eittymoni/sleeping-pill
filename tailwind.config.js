@@ -7,11 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'shape': "url('./assets/shape.png')",
-        'bg1': "url('./assets/bg1.png')",
-        'bg3': "url('./assets/bg3.png')",
-        'bg4': "url('./assets/bg4.png')",
-        'bg5': "url('./assets/bg5.png')",
+        'ban': "url('./assets/banner.jpg')",
+       
         
       },
       fontFamily: {

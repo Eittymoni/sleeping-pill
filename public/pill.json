@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Eszopiclone",
+      "brand": "Lunesta",
+      "description": "Eszopiclone, also known by the brand name Lunesta, is a potent medication for the treatment of insomnia. The FDA has approved this medication for nightly use for up to 6 months, making it a popular choice for chronic insomnia sufferers.",
+      "dosage_options": ["2 mg", "3 mg"],
+      "price": { "amount": 38.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./eszopiclone.png"
+    },
+    {
+      "name": "Zolpidem",
+      "brand": "Ambien",
+      "description": "Zolpidem, sold under the brand name Ambien, is a sedative primarily used for the treatment of insomnia. It works by slowing brain activity to allow sleep.",
+      "dosage_options": ["5 mg", "10 mg"],
+      "price": { "amount": 29.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./zopiclone.png"
+    },
+    {
+      "name": "Diazepam",
+      "brand": "Valium",
+      "description": "Diazepam, commonly known as Valium, is a benzodiazepine that is used to treat anxiety, muscle spasms, and seizures.",
+      "dosage_options": ["5 mg", "10 mg"],
+      "price": { "amount": 24.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./diazepam.png"
+    },
+    {
+      "name": "Alprazolam",
+      "brand": "Xanax",
+      "description": "Alprazolam, known by the brand Xanax, is a fast-acting tranquilizer used to manage anxiety disorders and panic disorders.",
+      "dosage_options": ["0.5 mg", "1 mg"],
+      "price": { "amount": 34.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./ambien.png"
+    },
+    {
+      "name": "Clonazepam",
+      "brand": "Klonopin",
+      "description": "Clonazepam, sold under the brand Klonopin, is a medication used to prevent and treat seizures and panic disorders.",
+      "dosage_options": ["0.5 mg", "1 mg"],
+      "price": { "amount": 32.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./eitzolam.png"
+    },
+    {
+      "name": "Lorazepam",
+      "brand": "Ativan",
+      "description": "Lorazepam, also known as Ativan, is a benzodiazepine used to treat anxiety disorders and sleep problems.",
+      "dosage_options": ["1 mg", "2 mg"],
+      "price": { "amount": 31.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./xanax.png"
+    },
+    {
+      "name": "Temazepam",
+      "brand": "Restoril",
+      "description": "Temazepam, sold under the brand Restoril, is a medication used to treat insomnia by promoting sleep.",
+      "dosage_options": ["15 mg", "30 mg"],
+      "price": { "amount": 39.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./nitrosun.png"
+    },
+    {
+      "name": "Triazolam",
+      "brand": "Halcion",
+      "description": "Triazolam, marketed under the brand Halcion, is a sedative used to treat severe insomnia.",
+      "dosage_options": ["0.25 mg", "0.5 mg"],
+      "price": { "amount": 28.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./eszopiclone.png"
+    },
+    {
+      "name": "Flurazepam",
+      "brand": "Dalmane",
+      "description": "Flurazepam, known as Dalmane, is a medication used to treat insomnia and improve sleep quality.",
+      "dosage_options": ["15 mg", "30 mg"],
+      "price": { "amount": 35.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./diazepam.png"
+    },
+    {
+      "name": "Ramelteon",
+      "brand": "Rozerem",
+      "description": "Ramelteon, sold under the brand Rozerem, is a non-benzodiazepine medication used to help people fall asleep more easily.",
+      "dosage_options": ["8 mg"],
+      "price": { "amount": 42.99, "currency": "GBP", "quantity": "30 Tablets" },
+      "image": "./ambien.png"
+    },
+    {
+        "name": "Lorazep",
+        "brand": "Ativan",
+        "description": "Lorazepam, also known as Ativan, is a benzodiazepine used to treat anxiety disorders and sleep problems.",
+        "dosage_options": ["1 mg", "2 mg"],
+        "price": { "amount": 31.99, "currency": "GBP", "quantity": "30 Tablets" },
+        "image": "./xanax.png"
+      },
+      {
+        "name": "Temaze",
+        "brand": "Restoril",
+        "description": "Temazepam, sold under the brand Restoril, is a medication used to treat insomnia by promoting sleep.",
+        "dosage_options": ["15 mg", "30 mg"],
+        "price": { "amount": 39.99, "currency": "GBP", "quantity": "30 Tablets" },
+        "image": "./nitrosun.png"
+      }
+  ]
+  
