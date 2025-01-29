@@ -12,7 +12,7 @@ const Banner = () => {
         <div className=" flex items-center ">
             <div className="w-[80%] bg-ban bg-no-repeat bg-cover h-[300px]">
 
-                <div className=" rounded-lg border-dashed border-[1px] bg-white border-black w-[32%] flex gap-2 justify-between items-center px-3 py-2 absolute top-[350px] left-[650px]">
+                <div className=" rounded-lg border-dashed border-[1px] bg-white border-black w-[30%] flex gap-2 justify-between items-center px-3 py-2 absolute top-[350px] left-[800px]">
                     <div className="">
                         <h2 className="text-2xl font-bold uppercase">Get <span className="italic">10% off</span>  on</h2>
                         <h2 className="text-2xl font-bold uppercase" >every order!</h2>

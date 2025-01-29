@@ -4,7 +4,7 @@ import { IoHomeOutline } from "react-icons/io5";
 
 const Header = () => {
   return (
-    <div className="p-4 bg-white shadow-md fixed top-0 left-0 w-full z-50">
+    <div className="p-4 bg-white shadow-md fixed top-0 left-[185px] w-full z-50 container mx-auto">
       <div className="flex items-center justify-between gap-10">
         <div className="w-1/3">
           <h1 className="text-5xl font-extrabold uppercase">Sleeping Pills</h1>
